@@ -10,7 +10,7 @@ export default function Projects() {
       image: project1,
       description:
         "Sistema para control de mantenimientos preventivos y correctivos.",
-      tech: "React • PHP • MySQL",
+      tech: "React • PHP • MySQL • AJAX • Bootstrap • Chart.js • GitHub • HTML • CSS • JavaScript",
     },
 
     {
@@ -18,15 +18,31 @@ export default function Projects() {
       image: project2,
       description:
         "Panel administrativo para órdenes de compra y seguimiento.",
-      tech: "PHP • Bootstrap • AJAX",
+      tech: "PHP • Bootstrap • AJAX • MySQL • Chart.js • GitHub • HTML • CSS • JavaScript",
     },
 
     {
-      title: "Control de Tanques",
+      title: "AllMarketing Panamá",
       image: project3,
       description:
-        "Sistema visual para monitoreo de niveles de agua y combustible.",
+        "Pagina Web para agencia de marketing digital en Panamá.",
       tech: "JavaScript • Chart.js • MySQL",
+    },
+
+    {
+      title: "AllMarketing Panamá",
+      image: project3,
+      description:
+        "Pagina Web para agencia de marketing digital en Panamá.",
+      tech: "JavaScript • Chart.js • MySQL",
+    },
+
+    {
+      title: "Feria de La Chorrera",
+      image: project3,
+      description:
+        "Pagina Web para la feria de La Chorrera, con información de eventos, artistas y venta de boletos.",
+      tech: "JavaScript • Wordpress",
     },
   ];
 

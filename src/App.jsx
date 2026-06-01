@@ -9,7 +9,7 @@ export default function App() {
   return (
     <BrowserRouter>
       <nav className="navbar">
-        <h2>Mi Portafolio</h2>
+        <h2>Portafolio  Web</h2>
 
         <ul>
           <li>

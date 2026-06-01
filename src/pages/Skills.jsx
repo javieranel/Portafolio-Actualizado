@@ -59,6 +59,11 @@ export default function Skills() {
       name: "Git & GitHub",
       level: "80%",
     },
+    {
+      icon: <FaGitAlt />,
+      name: "Git & GitHub",
+      level: "1%",
+    },
   ];
 
   return (
@@ -106,6 +111,9 @@ export default function Skills() {
           </div>
 
         ))}
+
+
+
 
       </div>
 

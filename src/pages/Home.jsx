@@ -16,7 +16,7 @@ export default function Home() {
             <span className="green"></span>
           </div>
 
-          <p>javier@developer:~</p>
+          <p>javieranel0107@gmail.com</p>
 
         </div>
 
@@ -54,7 +54,6 @@ export default function Home() {
               speed={50}
               repeat={Infinity}
             />
-
           </h1>
 
           <p className="terminal-description">
